@@ -35,16 +35,16 @@
 
 ## 💻 Working environment
 
-![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![win11](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
 
 ## 🗓️ Todolist
 
 - [x] 个人blog
-- [x] iSmartAuto
-- [ ] Taobaojs还在开发中
+- [ ] AutoJs
+- [ ] Random-V还在开发中
 - [ ] 尽快赚钱(●'◡'●)
 
 ## 😜 关注一下公众号呗
