@@ -47,5 +47,5 @@
 - .............
 
 ## 😜 关注一下公众号呗
-<img align="right" src="https://count.getloli.com/get/@demo?theme=gelbooru" alt="">
+<img align="right" src="https://count.getloli.com/get/@etongxue?theme=gelbooru" alt="" width = "550" height = "170" >
  <img src="https://i.loli.net/2021/11/05/bcySezJvoamgY69.png" width = "200" height = "200" alt="tsuki" align=center />
