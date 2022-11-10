@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mufanc&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Etongxue&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
 
 # h.Agoy 🔭
 
@@ -6,7 +6,7 @@
 
 > **✨ 一个会写点代码的本科生，不限于此😀** ✨
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mufanc&layout=compact&count_private=false&hide_border=true" alt="">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Etongxue&layout=compact&count_private=false&hide_border=true" alt="">
 
 * 专注于那些我会的，喜欢瞎搞，菜鸟一枚
 
@@ -42,10 +42,10 @@
 
 ## 🗓️ Todolist
 
-- [x] 个人blog
-- [ ] AutoJs
-- [ ] Random-V还在开发中
+- [✅] Tsuki'Blog
+- [✅] MY LOVE
+- [✅] CX TOOl
 - [ ] 尽快赚钱(●'◡'●)
 
 ## 😜 关注一下公众号呗
-![公众号](https://i.loli.net/2021/11/05/bcySezJvoamgY69.png)
+![公众号](https://i.loli.net/2021/11/05/bcySezJvoamgY69.png =100x100)
