@@ -35,7 +35,7 @@
 [![Steam](https://img.shields.io/badge/-Etongxue-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/tiamo6861)
 [![Hexo](https://img.shields.io/badge/-Hexo-0e83cd?style=flat-square&logo=hexo&logoColor=white)](https://etongxue.xyz/)
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" alt="" height = "200"  >
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Etongxue&theme=dracula" alt="" height = "200" width = "550"  >
 
 
 ## 🗓️ Todolist
