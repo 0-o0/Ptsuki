@@ -13,7 +13,7 @@
 
 * 有时写写公众号文章，或者博客<del>（请多多指教😜）</del>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Etongxue&layout=compact&count_private=false&hide_border=true" alt="">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ptsuki&layout=compact&count_private=false&hide_border=true" alt="">
 
 <br/>
 
@@ -35,7 +35,7 @@
 [![Steam](https://img.shields.io/badge/-Etongxue-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/tiamo6861)
 [![Hexo](https://img.shields.io/badge/-Hexo-0e83cd?style=flat-square&logo=hexo&logoColor=white)](https://etongxue.xyz/)
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Etongxue&theme=dracula" alt="" height = "200" width = "550"  >
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ptsuki&theme=dracula" alt="" height = "200" width = "550"  >
 
 
 ## 🗓️ Todolist
