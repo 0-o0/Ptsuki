@@ -1,6 +1,6 @@
 [![Tsuki](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=999&color=7367F0&center=true&vCenter=true&width=600&lines=%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E7%9A%84%E8%8A%B1%E6%9C%80%E7%BB%88%E4%BC%9A%E7%9B%9B%E5%BC%80%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E5%9C%9F%E5%A3%A4%E9%87%8C%EF%BC%8C;%E6%88%91%E7%9A%84%E7%83%AD%E6%83%85%E4%B8%8D%E4%BC%9A%E7%86%84%E7%81%AD%E5%9C%A8%E7%8E%B0%E5%AE%9E%E7%9A%84%E5%B9%B3%E5%87%A1%E4%B9%8B%E4%B8%AD)](https://git.io/typing-svg)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ptsuki&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tw93&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
 
 
 # Tsuki 🔭
