@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tw93&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
 
 
-# Tsuki 🔭
+# o_o 🔭
 
 ### ❤️Welcome to my Profile❤️.
 
